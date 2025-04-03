@@ -1,0 +1,14 @@
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.AssemblyInfoInputs.cache
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.AssemblyInfo.cs
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.csproj.CoreCompileInputs.cache
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\bin\Debug\net8.0\estacionamentoBenner.exe
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\bin\Debug\net8.0\estacionamentoBenner.deps.json
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\bin\Debug\net8.0\estacionamentoBenner.runtimeconfig.json
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\bin\Debug\net8.0\estacionamentoBenner.dll
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\bin\Debug\net8.0\estacionamentoBenner.pdb
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.dll
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\refint\estacionamentoBenner.dll
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.pdb
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.genruntimeconfig.cache
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\ref\estacionamentoBenner.dll
