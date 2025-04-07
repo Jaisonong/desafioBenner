@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estacionamentoBenner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d0e53f4d32d601afb744e80ef83462a7c74a62")]
 [assembly: System.Reflection.AssemblyProductAttribute("estacionamentoBenner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estacionamentoBenner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

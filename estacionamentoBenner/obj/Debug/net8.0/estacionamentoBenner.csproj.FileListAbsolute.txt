@@ -12,3 +12,4 @@ C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\refint\est
 C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.pdb
 C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.genruntimeconfig.cache
 C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\ref\estacionamentoBenner.dll
+C:\Estudos\estacionamentoBenner\estacionamentoBenner\obj\Debug\net8.0\estacionamentoBenner.sourcelink.json

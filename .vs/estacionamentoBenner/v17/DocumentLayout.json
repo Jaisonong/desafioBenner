@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Estudos\\estacionamentoBenner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\tabelapreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\tabelapreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\estacionamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\tabelapreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\tabelapreco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|c:\\estudos\\estacionamentobenner\\estacionamentobenner\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5380671-E14E-4114-8D8E-F87D6F3266D7}|estacionamentoBenner\\estacionamentoBenner.csproj|solutionrelative:estacionamentobenner\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,46 +48,46 @@
               "RelativeDocumentMoniker": "estacionamentoBenner\\Program.cs",
               "ToolTip": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\Program.cs",
               "RelativeToolTip": "estacionamentoBenner\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAyAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBwAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T22:52:29.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Estacionamento.cs",
               "DocumentMoniker": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\Estacionamento.cs",
               "RelativeDocumentMoniker": "estacionamentoBenner\\Estacionamento.cs",
               "ToolTip": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\Estacionamento.cs",
               "RelativeToolTip": "estacionamentoBenner\\Estacionamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T00:57:19.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TabelaPreco.cs",
               "DocumentMoniker": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\TabelaPreco.cs",
               "RelativeDocumentMoniker": "estacionamentoBenner\\TabelaPreco.cs",
               "ToolTip": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\TabelaPreco.cs",
               "RelativeToolTip": "estacionamentoBenner\\TabelaPreco.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAuAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T22:57:37.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\Veiculo.cs",
               "RelativeDocumentMoniker": "estacionamentoBenner\\Veiculo.cs",
               "ToolTip": "C:\\Estudos\\estacionamentoBenner\\estacionamentoBenner\\Veiculo.cs",
               "RelativeToolTip": "estacionamentoBenner\\Veiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T22:57:35.887Z",
               "EditorCaption": ""

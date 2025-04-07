@@ -9,7 +9,7 @@ namespace MyApp
         {
 
             List<Veiculo> listaVeiculo = new List<Veiculo>();
-            TabelaPreco tabelaPreco = new TabelaPreco(2.00, 1.00);
+            TabelaPreco tabelaPreco = new TabelaPreco(2.00, 1.00, new DateTime(2025, 1, 1), new DateTime(2025, 12, 29));
 
             Estacionamento estacionamento = new Estacionamento(listaVeiculo, tabelaPreco);
 
@@ -24,9 +24,16 @@ namespace MyApp
                 switch (opcao)
                 {
                     case 1:
-                        Console.WriteLine("Informe a placa do Veículo: ");
-                        string placaEntrada = (Console.ReadLine());
-                        estacionamento.RegistrarEntrada(placaEntrada);
+                        if (tabelaPreco.DentroDaVigencia(DateTime.Now))
+                        {
+                            Console.WriteLine("Informe a placa do Veículo: \n");
+                            string placaEntrada = (Console.ReadLine());
+                            estacionamento.RegistrarEntrada(placaEntrada);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Data fora da vigência");
+                        }
                         break;
                     case 2:
                         Console.WriteLine("Informe a placa do Veículo: ");
@@ -46,7 +53,7 @@ namespace MyApp
                         double novoValorAdicional = double.Parse(Console.ReadLine());
                         tabelaPreco.AlterarValorDaHoraAdicional(novoValorAdicional);
                         return;
-                    case 6: 
+                    case 6:
                         tabelaPreco.ExibirTabelaDePreco();
                         return;
                     case 7:

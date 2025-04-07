@@ -10,11 +10,21 @@ namespace estacionamentoBenner
     {
         public double ValorDaHoraInicial{  get; private set; }
         public double ValorDaHoraAdicional { get; private set; }
+        public DateTime DataInicioVigencia { get; private set; }
+        public DateTime DataFimVigencia { get; private set; }
 
-        public TabelaPreco(double valorDaHoraInicial, double valorDaHoraAdicional)
+        public TabelaPreco(double valorDaHoraInicial, double valorDaHoraAdicional, DateTime inicio, DateTime fim)
         {
             ValorDaHoraInicial = valorDaHoraInicial;
             ValorDaHoraAdicional = valorDaHoraAdicional;
+            DataInicioVigencia = inicio;
+            DataFimVigencia = fim;
+        }
+
+        //Verifica a vigencia da tabela
+        public bool DentroDaVigencia(DateTime data)
+        {
+            return data >= DataInicioVigencia && data <= DataFimVigencia;
         }
 
         //Altera o valor da hora inicial
